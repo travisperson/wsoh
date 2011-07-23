@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>HTML5 Dodgeball</title>
+
+<link href="/assets/css/style.css" rel="stylesheet" type="text/css" media="screen, print">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type="text/javascript"></script> 
+
+<script type="text/javascript" src="/nowjs/now.js"></script>
+
+<script type="text/javascript">
+  
+</script>
+
+<script type="text/javascript" src="/assets/js/main.js"></script>
+
+<script type="text/javascript">
+	var port = prompt("Player:");
+	$(document).ready(function () {
+		now.ready(function(){
+	  
+	  });
+
+		var options = {
+			width:window.innerWidth,
+			height:window.innerHeight,
+		};
+		var c = $('#court').court(options);
+		c.drawBall({x:2.2,y:2.2,z:4});
+		//console.log(c);
+		console.log("player: Port ",port);
+
+		now.handleBall = function(data) {
+			console.log("BALL MOVEMENT ",data.p);
+			if(parseInt(data.p) == parseInt(port))
+			{
+				c.drawAv();
+	  		c.drawBall(data);
+			}	
+		};
+
+		now.handleAv = function(data) {
+			console.log("AVATAR ",data.p);
+			if(parseInt(data.p) == parseInt(port))
+			{
+	  		c.av_data = data;
+	  		c.drawAv();
+			}	
+		};
+
+
+	});
+</script>
+</head>
+<body>
+
+<div id="court"></div>
+
+</body>
+</html>

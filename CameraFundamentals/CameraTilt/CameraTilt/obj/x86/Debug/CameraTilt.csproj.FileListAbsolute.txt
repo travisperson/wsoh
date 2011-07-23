@@ -1,0 +1,13 @@
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\bin\Debug\CameraTilt.exe
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\bin\Debug\CameraTilt.pdb
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\obj\x86\Debug\MainWindow.baml
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\obj\x86\Debug\MainWindow.g.cs
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\obj\x86\Debug\App.g.cs
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt_MarkupCompile.cache
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.g.resources
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.Properties.Resources.resources
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.exe
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraTilt\CameraTilt\obj\x86\Debug\CameraTilt.pdb

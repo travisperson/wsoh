@@ -1,0 +1,66 @@
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.exe
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.pdb
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.baml
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.g.cs
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\App.g.cs
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals_MarkupCompile.cache
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.g.resources
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.Properties.Resources.resources
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.exe
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.pdb
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Emgu.CV.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Emgu.Util.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Emgu.CV.pdb
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Emgu.CV.xml
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Emgu.Util.pdb
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Emgu.Util.xml
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_calib3d220.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_contrib220.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_core220.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_features2d220.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_highgui220.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_imgproc220.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_legacy220.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_ml220.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_objdetect220.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_video220.dll
+C:\Users\t-newalt\Downloads\KinectForWindowsSDKQuickstarts\3.Camera Fundamentals\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals_Content.g.cs
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.exe
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.pdb
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_calib3d220.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_contrib220.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_core220.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_features2d220.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_highgui220.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_imgproc220.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_legacy220.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_ml220.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_objdetect220.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\opencv_video220.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.exe
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\CameraFundamentals.pdb
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Expression.Drawing.dll
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Emgu.CV.pdb
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Emgu.CV.xml
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Emgu.Util.pdb
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Emgu.Util.xml
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\bin\Debug\Microsoft.Expression.Drawing.xml
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.baml
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\MainWindow.g.cs
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\App.g.cs
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals_Content.g.cs
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals_MarkupCompile.cache
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.g.resources
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\CameraFundamentals.Properties.Resources.resources
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\project\CameraFundamentals\CameraFundamentals\CameraFundamentals\obj\x86\Debug\GenerateResource.write.1.tlog
